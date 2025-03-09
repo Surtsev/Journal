@@ -20,6 +20,20 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
+	),
+	Array(
+		"Кабинет продавца", 
+		"/for_sellers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Кабинет покупателя", 
+		"/for_clients/", 
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>
