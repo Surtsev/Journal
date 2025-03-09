@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Вакансии", 
+		"/about/vacancies/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/about/contacts/", 
+		Array("/about/contacts/callback.php", "/about/feedback.php", "/about/feedback.php"), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обратная связь", 
+		"/about/contacts/feedback.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/about/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Агенты", 
+		"/about/agents/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
